@@ -49,7 +49,7 @@
     <string name="about_course_code">ICT602</string>
     <string name="about_course_name">MOBILE TECHNOLOGY AND DEVELOPMENT</string>
     <string name="about_copyright">© 2025 Muhammad Haziq Danish. All rights reserved.</string>
-    <string name="about_github_url">https://github.com/haziqdanish/CountCurrent</string>
+    <string name="about_github_url">https://github.com/zeeqy/CountCurrentICT</string>
     <string name="about_description">CountCurrent is a mobile utility application designed to estimate monthly residential electricity bills based on TNB (Tenaga Nasional Berhad) tiered block rates in Malaysia. It features full offline database capabilities using Firebase Firestore offline cache support, enabling seamless usage even without active internet.</string>
     
     <string name="about_instructions_title">How to Use Instructions:</string>
