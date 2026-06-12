@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color Theme (Deep Purple) -->
+    <color name="purple_primary">#6A0DAD</color>
+    <color name="purple_primary_dark">#4B0082</color>
+    <color name="purple_primary_light">#8B33FF</color>
+    
+    <!-- Accent Color Theme (Lavender / Light Purple) -->
+    <color name="purple_accent">#D1B3FF</color>
+    <color name="purple_accent_tint">#E6D6FF</color>
+    <color name="purple_light_bg">#F7F5FC</color>
+
+    <!-- General Design System Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="card_border">#E1D5F5</color>
+    <color name="text_primary">#2E2A36</color>
+    <color name="text_secondary">#776E88</color>
+    <color name="divider">#EFEBF7</color>
+    
+    <!-- Status & Feedback -->
+    <color name="color_error">#B00020</color>
+    <color name="color_success">#2E7D32</color>
+</resources>

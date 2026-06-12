@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App & Screens Titles -->
+    <string name="app_name">CountCurrent</string>
+    <string name="title_records">Electricity Records</string>
+    <string name="title_detail">Record Details</string>
+    <string name="title_about">About CountCurrent</string>
+
+    <!-- General Buttons -->
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_view_records">View Records</string>
+    <string name="btn_about">About App</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save Changes</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Calculator Inputs & Hints -->
+    <string name="label_month">Select Month</string>
+    <string name="hint_month">Choose billing month</string>
+    <string name="label_units">Units Used (kWh)</string>
+    <string name="hint_units">Enter units between 1 - 1000</string>
+    <string name="label_rebate">Rebate Percentage</string>
+    
+    <!-- Calculator Outputs -->
+    <string name="label_results">Calculation Results</string>
+    <string name="label_total_charges">Total Charges (RM):</string>
+    <string name="label_final_cost">Final Cost After Rebate (RM):</string>
+    <string name="currency_prefix">RM </string>
+    <string name="unit_suffix"> kWh</string>
+
+    <!-- Validation Errors & Messages -->
+    <string name="error_empty_units">Please enter units used (kWh)</string>
+    <string name="error_invalid_units">Units must be a number between 1 and 1000</string>
+    <string name="toast_saved">Record saved successfully!</string>
+    <string name="toast_updated">Record updated successfully!</string>
+    <string name="toast_deleted">Record deleted successfully!</string>
+    <string name="toast_db_error">Database operation failed!</string>
+
+    <!-- Dialog Confirmation -->
+    <string name="dialog_delete_title">Delete Record?</string>
+    <string name="dialog_delete_message">Are you sure you want to permanently delete this billing record?</string>
+    <string name="dialog_yes">Delete</string>
+    <string name="dialog_no">Cancel</string>
+
+    <!-- About Screen Data -->
+    <string name="about_student_name">MUHAMMAD HAZIQ DANISH BIN HAIDIL AMIR</string>
+    <string name="about_student_id">2025100891</string>
+    <string name="about_course_code">ICT602</string>
+    <string name="about_course_name">MOBILE TECHNOLOGY AND DEVELOPMENT</string>
+    <string name="about_copyright">© 2025 Muhammad Haziq Danish. All rights reserved.</string>
+    <string name="about_github_url">https://github.com/haziqdanish/CountCurrent</string>
+    <string name="about_description">CountCurrent is a mobile utility application designed to estimate monthly residential electricity bills based on TNB (Tenaga Nasional Berhad) tiered block rates in Malaysia. It features full offline database capabilities using Firebase Firestore offline cache support, enabling seamless usage even without active internet.</string>
+    
+    <string name="about_instructions_title">How to Use Instructions:</string>
+    <string name="about_instruction_1">1. Select the billing month from the dropdown menu.</string>
+    <string name="about_instruction_2">2. Enter or slide the number of kWh units used (ranging 1–1000).</string>
+    <string name="about_instruction_3">3. Choose your rebate percentage (0% to 5%).</string>
+    <string name="about_instruction_4">4. Tap "Calculate" to view the estimated charges and save it.</string>
+    <string name="about_instruction_5">5. Tap "View Records" to view your historical saved estimations.</string>
+    <string name="about_instruction_6">6. Tap any record in the list to view details, update, or delete it.</string>
+</resources>

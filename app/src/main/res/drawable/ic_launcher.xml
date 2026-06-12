@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Circle Background with deep purple -->
+    <path
+        android:pathData="M 50 10 A 40 40 0 1 0 50 90 A 40 40 0 1 0 50 10 Z"
+        android:fillColor="@color/purple_primary" />
+
+    <!-- Thin inner border ring -->
+    <path
+        android:pathData="M 50 15 A 35 35 0 1 0 50 85 A 35 35 0 1 0 50 15 Z"
+        android:strokeColor="@color/purple_accent"
+        android:strokeWidth="1.5" />
+
+    <!-- Lightning Bolt (center electricity emblem) -->
+    <path
+        android:pathData="M 54 25 L 36 52 L 48 52 L 44 75 L 64 48 L 52 48 Z"
+        android:fillColor="@color/purple_accent" />
+</vector>

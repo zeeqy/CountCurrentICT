@@ -1,0 +1,20 @@
+# Gradle files
+.gradle
+/build
+/*/build
+/captures
+
+# Local configuration file (contains local SDK paths)
+local.properties
+
+# Android Studio / IntelliJ IDEA settings
+.idea/
+*.iml
+*.iws
+
+# Log files
+*.log
+
+# Android Keystores
+*.jks
+*.keystore
